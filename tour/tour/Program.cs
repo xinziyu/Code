@@ -10,7 +10,7 @@ namespace tour
         static void Main(string[] args)
         {
 
-            string msg = "我是release第一个版本";
+            string msg = "我是release第二个版本";
             Console.WriteLine(msg);
 
 
