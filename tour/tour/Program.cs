@@ -15,6 +15,7 @@ namespace tour
             Console.WriteLine("ok");
             Console.ReadKey();
         }
+		asdfasfasf
       
     }
 }
