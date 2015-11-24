@@ -9,7 +9,7 @@ namespace tour
     {
         static void Main(string[] args)
         {
-            string msg = "我是master第2个版本";
+            string msg = "我是dev2第1个版本";
             Console.WriteLine(msg);
             Console.WriteLine("123");
             Console.WriteLine("ok");
