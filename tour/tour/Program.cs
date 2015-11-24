@@ -17,5 +17,9 @@ namespace tour
             Console.WriteLine("ok");
             Console.ReadKey();
         }
+        public void test()
+        {
+            Console.WriteLine("123");
+        }
     }
 }
