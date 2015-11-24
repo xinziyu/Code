@@ -11,7 +11,7 @@ namespace tour
         {
             string msg = "我是master第三个版本";
             Console.WriteLine(msg);
-
+            Console.WriteLine("123");
             Console.WriteLine("ok");
             Console.ReadKey();
         }

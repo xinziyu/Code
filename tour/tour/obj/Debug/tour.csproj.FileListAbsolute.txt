@@ -3,3 +3,5 @@ F:\Ctrip\Code\pro\Code\tour\tour\bin\Debug\tour.pdb
 F:\Ctrip\Code\pro\Code\tour\tour\obj\Debug\tour.csprojResolveAssemblyReference.cache
 F:\Ctrip\Code\pro\Code\tour\tour\obj\Debug\tour.exe
 F:\Ctrip\Code\pro\Code\tour\tour\obj\Debug\tour.pdb
+F:\MyWork\Code\tour\tour\obj\Debug\tour.exe
+F:\MyWork\Code\tour\tour\obj\Debug\tour.pdb
