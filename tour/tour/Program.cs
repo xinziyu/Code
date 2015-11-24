@@ -12,7 +12,7 @@ namespace tour
 
             string msg = "我是release第三个版本";
             Console.WriteLine(msg);
-
+            Console.WriteLine(msg);
 
             Console.WriteLine("ok");
             Console.ReadKey();
